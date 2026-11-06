@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:03,150
+İstanbul Boğazı'nda su aynı anda iki yöne akıyor:
+
+2
+00:00:03,273 --> 00:00:05,903
+yüzeyde bir yöne, derinde tam tersine.
+
+3
+00:00:07,078 --> 00:00:10,698
+Yüzeyde Karadeniz'den Marmara'ya inen akıntının altında,
+
+4
+00:00:10,718 --> 00:00:13,378
+Marmara'dan Karadeniz'e giden ters bir akıntı var;
+
+5
+00:00:13,398 --> 00:00:17,688
+yani aynı dar geçitte iki akıntı, zıt yönlerde üst üste ilerliyor.
+
+6
+00:00:18,844 --> 00:00:21,344
+Boğaz yaklaşık otuz bir kilometre uzunluğunda,
+
+7
+00:00:21,364 --> 00:00:23,654
+en dar yeri ise yaklaşık yediyüz metre;
+
+8
+00:00:23,674 --> 00:00:26,244
+iki yakasında da İstanbul uzanıyor.
+
+9
+00:00:27,408 --> 00:00:29,318
+Derinliği yüz metreden fazlaya çıkıyor;
+
+10
+00:00:29,338 --> 00:00:31,768
+bu dar su yolu Karadeniz'i Marmara'ya bağlıyor
+
+11
+00:00:31,788 --> 00:00:33,818
+ve Avrupa ile Asya'yı ayırıyor.
+
+12
+00:00:34,984 --> 00:00:37,984
+Üzerindeki ilk köprü bin dokuz yüz yetmiş üçte açıldı;
+
+13
+00:00:38,004 --> 00:00:40,144
+Boğaz'daki üç asma köprünün ilki,
+
+14
+00:00:40,164 --> 00:00:42,324
+toplam uzunluğu bin beş yüz altmış metre.
+
+15
+00:00:43,488 --> 00:00:45,488
+Yani İstanbul Boğazı, iki yöne akan
+
+16
+00:00:45,508 --> 00:00:47,638
+ve iki kıtayı ayıran bir su yolu.
