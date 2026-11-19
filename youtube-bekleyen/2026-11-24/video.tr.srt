@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:02,220
+Dünyada ölçülen en yüksek sıcaklık,
+
+2
+00:00:02,240 --> 00:00:03,750
+sence Sahra'da mı?
+
+3
+00:00:04,922 --> 00:00:09,452
+Hayır; tartışmalı da olsa resmi rekor, Kaliforniya'daki Ölüm Vadisi'nde:
+
+4
+00:00:09,572 --> 00:00:11,382
+elli altı virgül yedi derece.
+
+5
+00:00:12,559 --> 00:00:16,889
+Vadideki Badwater Havzası ise deniz seviyesinin seksen altı metre altında;
+
+6
+00:00:16,909 --> 00:00:19,449
+Kuzey Amerika'nın en alçak noktası.
+
+7
+00:00:19,563 --> 00:00:21,813
+Zemindeki beyazlık kar değil, tuz.
+
+8
+00:00:22,989 --> 00:00:25,829
+Üstelik yalnızca yüz otuz altı kilometre ötede,
+
+9
+00:00:25,849 --> 00:00:29,499
+Alaska hariç ABD'nin en yüksek zirvesi Whitney Dağı yükseliyor;
+
+10
+00:00:29,519 --> 00:00:31,239
+ikisi de aynı ilçede.
+
+11
+00:00:32,401 --> 00:00:34,471
+Yağmur ise neredeyse hiç yok:
+
+12
+00:00:34,596 --> 00:00:37,396
+yılda ortalama beş santimetreden bile az.
+
+13
+00:00:38,571 --> 00:00:43,441
+Hikâyeye göre vadinin adı, bin sekiz yüz kırk dokuzda burada kaybolan öncülerden kalmış;
+
+14
+00:00:43,461 --> 00:00:46,621
+biri ayrılırken Elveda Ölüm Vadisi demiş.
+
+15
+00:00:47,783 --> 00:00:51,203
+Yani en yüksek sıcaklığın resmi rekoru Sahra'da değil,
+
+16
+00:00:51,223 --> 00:00:52,683
+Ölüm Vadisi'nde.
