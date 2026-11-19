@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:02,390
+Doğudan batıya beş bin kilometreyi aşan bir ülke,
+
+2
+00:00:02,410 --> 00:00:04,280
+tek bir saat kullanabilir mi?
+
+3
+00:00:05,451 --> 00:00:07,231
+Çin tam olarak bunu yapıyor:
+
+4
+00:00:07,357 --> 00:00:10,567
+bütün ülke tek bir saate, Pekin saatine göre yaşıyor.
+
+5
+00:00:11,740 --> 00:00:14,940
+Oysa ülke, yaklaşık beş bin iki yüz kilometre genişliğinde;
+
+6
+00:00:14,960 --> 00:00:17,890
+coğrafi olarak beş saat dilimine yayılıyor.
+
+7
+00:00:19,057 --> 00:00:21,827
+Bu yüzden batıdaki Kaşgar'da kış ortasında güneş,
+
+8
+00:00:21,847 --> 00:00:24,587
+Pekin saatiyle sabah ondan sonra doğuyor.
+
+9
+00:00:25,755 --> 00:00:27,675
+Pekin'de ise aynı günlerde güneş,
+
+10
+00:00:27,695 --> 00:00:30,215
+sabah yedi buçuk civarında doğuyor.
+
+11
+00:00:31,385 --> 00:00:35,745
+Üstelik Afganistan sınırını geçince saat bir anda üç buçuk saat değişiyor;
+
+12
+00:00:35,765 --> 00:00:38,465
+bu, kara sınırlarındaki en büyük saat farkı.
+
+13
+00:00:39,630 --> 00:00:41,590
+Batıdaki Sincan'da ise pek çok kişi,
+
+14
+00:00:41,610 --> 00:00:45,380
+Pekin saatinin iki saat gerisindeki yerel saati kullanıyor.
+
+15
+00:00:46,547 --> 00:00:48,597
+Yani beş bin kilometreyi aşan bu ülke,
+
+16
+00:00:48,617 --> 00:00:50,357
+tek bir saat kullanıyor.
