@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:03,100
+Atlantik'ten Pasifik'e geçen bir gemi batıya gider sanırsın;
+
+2
+00:00:03,120 --> 00:00:05,400
+Panama Kanalı'nda ise doğuya gider.
+
+3
+00:00:06,568 --> 00:00:08,938
+Kanal, Atlantik kıyısındaki Colón'dan başlar;
+
+4
+00:00:08,958 --> 00:00:12,528
+Pasifik ağzı ise yaklaşık kırk kilometre daha doğudadır.
+
+5
+00:00:13,695 --> 00:00:16,165
+Kanal yaklaşık seksen iki kilometre uzunluğunda;
+
+6
+00:00:16,185 --> 00:00:20,155
+kilitler gemileri yirmi altı metre yukarı, Gatun Gölü'ne kaldırır.
+
+7
+00:00:21,321 --> 00:00:22,411
+Üstelik bu göl yapay;
+
+8
+00:00:22,431 --> 00:00:25,391
+yapıldığında dünyanın en büyük yapay gölüydü.
+
+9
+00:00:26,562 --> 00:00:28,162
+Eski kilitlerde her geçiş,
+
+10
+00:00:28,182 --> 00:00:31,392
+yaklaşık iki yüz milyon litre tatlı su kullanır.
+
+11
+00:00:32,562 --> 00:00:34,502
+Bin dokuz yüz on dörtte açılan kanal,
+
+12
+00:00:34,522 --> 00:00:39,152
+New York'tan San Francisco'ya deniz yolunu on üç bin kilometreden fazla kısalttı.
+
+13
+00:00:40,317 --> 00:00:44,257
+Bin dokuz yüz yirmi sekizde kanalı yüzerek geçen bir gezgin yazar ise,
+
+14
+00:00:44,277 --> 00:00:47,617
+ağırlığına göre yalnızca otuz altı sent ödedi.
+
+15
+00:00:48,781 --> 00:00:51,001
+Yani Atlantik'ten Pasifik'e geçen bir gemi,
+
+16
+00:00:51,021 --> 00:00:53,361
+Panama'da batıya değil, doğuya gider.
